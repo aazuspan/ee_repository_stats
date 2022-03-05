@@ -22,12 +22,12 @@ You can use the scripts and data here to dig deeper, but here are some summary s
 
 ### 🖥️ Module Stats
 
-- External modules have been imported 35k times
+- External modules have been imported **35k times**
 - The most popular import is [ee-palettes](https://github.com/gee-community/ee-palettes), followed by [GEET](https://github.com/sacridini/GEET) and [GEE Tools](https://github.com/fitoprincipe/geetools-code-editor).
 
 ### 📋 Other Stats
 
-- The most frequently used coordinate reference systems are Mercator and Web Mercator, which together make up 91% of all CRS's used
+- The most frequently used coordinate reference systems are Mercator and Web Mercator, which together make up **91%** of all CRS's used
 
 ## Usage
 
