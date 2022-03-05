@@ -1,8 +1,10 @@
 # 🌍 Earth Engine Public Repository Stats
 
-This project contains notebooks to scrape, parse, and analyze every public [Google Earth Engine](https://earthengine.google.com/) repository. 
+This project contains notebooks used to scrape, parse, and analyze every public [Google Earth Engine](https://earthengine.google.com/) repository. 
 
-![Map titled The World by Earth Engine Users, which shows the distribution of all points used in Earth Engine scripts.](figures/point_map.png)
+<p align='center'>
+<img src="figures/point_map.png" width=800>
+</p>
 
 ## 📈 Stats
 
@@ -12,7 +14,6 @@ You can use the scripts and data here to dig deeper, but here are some summary s
 - **11,175** public repositories
 - Contributed by **8,344 users**
 - **57 million** lines of code
-- **13 million** lines of comments
 
 ### 🛰️ Dataset Stats
 
@@ -20,10 +21,18 @@ You can use the scripts and data here to dig deeper, but here are some summary s
 - By program, **Landsat** wins with **134k imports**
 - **Landsat 8** is the most frequently imported Landsat platform with **67k imports**
 
+<p align='center'>
+<img src="figures/program_imports.png" width=500>
+</p>
+
 ### 🖥️ Module Stats
 
 - External modules have been imported **35k times**
 - The most popular import is [ee-palettes](https://github.com/gee-community/ee-palettes), followed by [GEET](https://github.com/sacridini/GEET) and [GEE Tools](https://github.com/fitoprincipe/geetools-code-editor).
+
+<p align='center'>
+<img src="figures/modules_by_user.png" width=500>
+</p>
 
 ### 📋 Other Stats
 
