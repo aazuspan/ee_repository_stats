@@ -1,6 +1,6 @@
 # 🌍 Earth Engine Public Repository Stats
 
-This project contains notebooks to scrape, parse, and analyze every public Earth Engine repository. 
+This project contains notebooks to scrape, parse, and analyze every public [Google Earth Engine](https://earthengine.google.com/) repository. 
 
 ![Map titled The World by Earth Engine Users, which shows the distribution of all points used in Earth Engine scripts.](figures/point_map.png)
 
