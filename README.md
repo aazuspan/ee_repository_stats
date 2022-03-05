@@ -1,33 +1,33 @@
-# Earth Engine Public Repository Stats
+# 🌍 Earth Engine Public Repository Stats
 
 This project contains notebooks to scrape, parse, and analyze every public Earth Engine repository. 
 
 ![Map titled The World by Earth Engine Users, which shows the distribution of all points used in Earth Engine scripts.](figures/point_map.png)
 
-## Stats
+## 📈 Stats
 
 You can use the scripts and data here to dig deeper, but here are some summary stats as of March 2022.
 
-### Earth Engine Stats
-- 11,175 public repositories
-- Contributed by 8,344 users
-- 57 million lines of code
-- 13 million lines of comments
+### 🌐 Earth Engine Stats
+- **11,175** public repositories
+- Contributed by **8,344 users**
+- **57 million** lines of code
+- **13 million** lines of comments
 
-### Dataset Stats
+### 🛰️ Dataset Stats
 
-- The most popular single image collection is [Sentinel-2 Level 1C](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2) with 39k imports 
-- By program, Landsat wins with 134k imports
-- Landsat 8 is the most frequently imported Landsat platform with 67k imports
+- The most popular single image collection is [Sentinel-2 Level 1C](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2) with **39k imports** 
+- By program, **Landsat** wins with **134k imports**
+- **Landsat 8** is the most frequently imported Landsat platform with **67k imports**
 
-### Module Stats
+### 🖥️ Module Stats
 
 - External modules have been imported 35k times
 - The most popular import is [ee-palettes](https://github.com/gee-community/ee-palettes), followed by [GEET](https://github.com/sacridini/GEET) and [GEE Tools](https://github.com/fitoprincipe/geetools-code-editor).
 
-### Other Stats
+### 📋 Other Stats
 
-- The most frequently used coordinate reference systems are Mercator and Web Mercator, which together make up 91% of all CRS's used.
+- The most frequently used coordinate reference systems are Mercator and Web Mercator, which together make up 91% of all CRS's used
 
 ## Usage
 
