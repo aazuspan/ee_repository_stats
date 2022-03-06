@@ -1,6 +1,6 @@
 # 🌍 Earth Engine Public Repository Stats
 
-This project contains notebooks used to scrape, parse, and analyze every public [Google Earth Engine](https://earthengine.google.com/) repository. 
+This project contains notebooks that were used to scrape, parse, and analyze every public [Google Earth Engine](https://earthengine.google.com/) repository. 
 
 <p align='center'>
 <img src="figures/point_map.png" width=800>
