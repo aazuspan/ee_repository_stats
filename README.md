@@ -17,12 +17,11 @@ You can use the scripts and data here to dig deeper, but here are some summary s
 
 ### 🛰️ Dataset Stats
 
-- The most popular single image collection is [Sentinel-2 Level 1C](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2) with **39k imports** 
-- By program, **Landsat** wins with **134k imports**
-- **Landsat 8** is the most frequently imported Landsat platform with **67k imports**
+- The most frequently imported platform is [Sentinel-2](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2) with **68k imports** 
+- Together, **Landsat** platforms have been imported **134k times**, and **Landsat 8** is the most popular by far!
 
 <p align='center'>
-<img src="figures/program_imports.png" width=500>
+<img src="figures/platform_imports.png" width=500>
 </p>
 
 ### 🖥️ Module Stats
