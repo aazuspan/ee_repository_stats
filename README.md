@@ -23,7 +23,7 @@ Google Earth Engine (GEE) is a cloud-computing platform for remote sensing and g
 - Together, **Landsat** platforms have been imported **134k times**, with half of those imports being **Landsat 8**.
 
 <p align='center'>
-<img src="figures/platform_imports.png" width=500>
+<img src="figures/platform_imports.png" width=600>
 </p>
 
 ### 🖼️ Image Stats
@@ -42,7 +42,7 @@ Google Earth Engine (GEE) is a cloud-computing platform for remote sensing and g
 - The most popular import is [ee-palettes](https://github.com/gee-community/ee-palettes), followed by [GEET](https://github.com/sacridini/GEET) and [GEE Tools](https://github.com/fitoprincipe/geetools-code-editor).
 
 <p align='center'>
-<img src="figures/modules_by_user.png" width=500>
+<img src="figures/modules_by_user.png" width=600>
 </p>
 
 ### 📋 Other Stats
