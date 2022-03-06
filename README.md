@@ -8,7 +8,9 @@ This project contains [notebooks](./notebooks) that were used to scrape, parse, 
 
 ## Background
 
-Google Earth Engine (GEE) is a cloud-computing platform for remote sensing and geospatial analysis that is widely used for scientific research and natural resource management. Some (probably a small fraction) of the code that users have written in GEE is publicly accessible, so I decided to download all ~11 gigabytes of it to see what I could learn about how people are using the platform. The stats and data here are a snapshot of public repositories in March 2022.
+Google Earth Engine (GEE) is a cloud-computing platform for remote sensing and geospatial analysis that is widely used for scientific research and natural resource management. Some (probably a small fraction) of the code that users have written in GEE is publicly accessible, so I decided to download all ~11 gigabytes of it to see what I could learn about how people are using the platform. 
+
+The stats and data here are a snapshot of public repositories in March 2022.
 
 ## 📈 Stats
 
